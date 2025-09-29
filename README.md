@@ -13,9 +13,9 @@ An aspiring Full-Stack developer committed to creating seamless digital experien
 
 <!-- Stats Section -->
 <td style="border-right: 2px solid #444; padding: 15px; width: 50%; vertical-align: top; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SOHAM-DEV2&theme=neon&hide_border=false&include_all_commits=true&count_private=false" style="width: 100%; max-width: 450px; margin-bottom: 15px;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SOHAM-DEV2&theme=neon&hide_border=false" style="width: 100%; max-width: 450px; margin-bottom: 15px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAM-DEV2&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 100%; max-width: 450px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SOHAM-DEV2&theme=neon&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800" style="width: 100%; max-width: 450px; margin-bottom: 15px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SOHAM-DEV2&theme=neon&hide_border=false&cache_seconds=1800" style="width: 100%; max-width: 450px; margin-bottom: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAM-DEV2&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" style="width: 100%; max-width: 450px;" />
 </td>
 
 <!-- GIF Section -->
