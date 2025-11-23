@@ -34,5 +34,5 @@ An aspiring Full-Stack developer committed to creating seamless digital experien
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
+[![An image of @sohamdev2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohamdev2)](https://holopin.io/@sohamdev2)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
