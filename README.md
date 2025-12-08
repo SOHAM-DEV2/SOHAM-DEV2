@@ -16,7 +16,7 @@ An aspiring Full-Stack developer committed to creating seamless digital experien
 
   <a href="https://github.com/SOHAM-DEV2">
     <img
-      src="https://github-readme-stats-one-bice.vercel.app/api?username=SOHAM-DEV2&theme=radical&hide_border=false&include_all_commits=true&count_private=false&card_width=350"
+      src="https://github-readme-stats-one-bice.vercel.app/api?username=SOHAM-DEV2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=350"
       style="width: 92%; max-width: 350px; margin-bottom: 18px;"
       alt="GitHub Stats" />
   </a>
