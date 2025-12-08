@@ -11,7 +11,7 @@ An aspiring Full-Stack developer committed to creating seamless digital experien
 <table style="margin: auto; width: 100%; max-width: 1300px; border: 2px solid #444; border-radius: 12px; overflow: hidden; table-layout: fixed;">
 <tr>
 
-<!-- LEFT SIDE — STATS (smaller now) -->
+<!-- LEFT SIDE — STATS) -->
 <td style="border-right: 2px solid #444; padding: 20px; width: 50%; vertical-align: top; text-align: center;">
 
   <a href="https://github.com/SOHAM-DEV2">
@@ -29,7 +29,7 @@ An aspiring Full-Stack developer committed to creating seamless digital experien
 
 </td>
 
-<!-- RIGHT SIDE — GIFs (bigger now) -->
+<!-- RIGHT SIDE — GIFs -->
 <td style="padding: 20px; width: 50%; text-align: center; vertical-align: top;">
 
   <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif"
@@ -54,10 +54,9 @@ An aspiring Full-Stack developer committed to creating seamless digital experien
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-## 🎖️Open-Source Contributions
+### 🎖️Open-Source Contributions
 <table>
 <tr>
 <td align="center">
 
 [![Holopin Badges](https://holopin.me/sohamdev2)](https://holopin.io/@sohamdev2)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
